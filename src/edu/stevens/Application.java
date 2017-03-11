@@ -6,7 +6,7 @@ public class Application {
 	public static void main(String args[])
 	{	XFrame xFrame=new XFrame();
 		xFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		System.out.println("what happen");
+		System.out.println("Everything will be OK!");
 	}
 
 }
